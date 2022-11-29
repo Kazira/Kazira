@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edvalter da Costa Jamba</h1>
-<h3 align="center">An ICT:APPLICATION DEVELOPER,with experience in different Programming area,such as web developer with competencies in HTML, CSS, PHP,Vue.js, as well in C# and Java. passionate frontend and back-end developer.</h3>
-
 - 🌱 I’m currently learning **react,angular.**
-
 - 📫 How to reach me **edvalterjamba9@gmail.com**
-
 <p align="left">
 </p>
 
@@ -14,5 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazira&show_icons=true&locale=en&layout=compact" alt="kazira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazira&show_icons=true&locale=en" alt="kazira" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazira&" alt="kazira" /></p>
