@@ -1,3 +1,9 @@
+<h1 align="center">
+  Hello there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to my Profile
+</h1>
+
 ### :woman_technologist: About Me :
 I am Edvalter Jamba a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Living In South Africa.
 - :telescope: I'am a recent Diploma Graduate in ICT:APPLICATION DEVELOPMENT  and I have contributing in frontend and backend projects for web applications and Descktop Application.
@@ -17,16 +23,16 @@ I am Edvalter Jamba a Full Stack Developer <img src="https://media.giphy.com/med
 </div>
 
 <h1 align="center">
-  hey there
+  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Welcome to my Profile
 </h1>
 
 <div align="center">
   <a href="https://github.com/kazira">
-  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=kazira&show_icons=true&&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420" src="http://github-readme-streak-stats.herokuapp.com?user=kazira&theme=dark&background=000000"/>
   <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  <img height="180em" width="840" src="http://github-readme-streak-stats.herokuapp.com?user=kazira&theme=dark&background=000000"/>
+  
 
   <div><br>
   <img align="center" alt="kazira-Ts" height="30" width="85" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
