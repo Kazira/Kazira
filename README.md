@@ -11,7 +11,7 @@ I am Edvalter Jamba a Full Stack Developer <img src="https://media.giphy.com/med
 - :seedling: I’m currently working in CAPE PENINSULA UNIVERSITY'S PROJECT which my role is to Rebrand and develop a website for a company.
 - :zap: In my free time,I develop some webSites and applications for Individuals.
 
-- :mailbox:How to reach me edvalterjamba9@gmail.com
+- :mailbox:How to reach me edvalterjamba9@gmail.com or edvalterdacostajamba@gmail.com
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
